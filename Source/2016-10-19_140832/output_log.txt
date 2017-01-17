@@ -1,0 +1,165 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.3165]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     971 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Managed\Boo.Lang.dll (this message is harmless)
+teste
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+aaaaa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+aaaaa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+aaaaa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO;C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Thiago'
+OS-Version: 6.2.9200 () 0x300-0x1
+C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR.exe:METEORO_VR.exe (00AB0000), size: 12292096 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR.exe', fileVersion: 4.6.7.26594
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77160000), size: 1503232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.18233
+C:\WINDOWS\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (758D0000), size: 1310720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\KERNEL32.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (74A20000), size: 880640 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\KERNELBASE.dll', fileVersion: 6.3.9600.18340
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (68CD0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\WS2_32.dll:WS2_32.dll (75500000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WS2_32.dll', fileVersion: 6.3.9600.18340
+C:\WINDOWS\SYSTEM32\USER32.dll:USER32.dll (76D70000), size: 1388544 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USER32.dll', fileVersion: 6.3.9600.18439
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (748C0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\ole32.dll:ole32.dll (757A0000), size: 1216512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ole32.dll', fileVersion: 6.3.9600.18403
+C:\WINDOWS\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (754B0000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHLWAPI.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (751F0000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ADVAPI32.dll', fileVersion: 6.3.9600.18155
+C:\WINDOWS\SYSTEM32\GDI32.dll:GDI32.dll (74BA0000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GDI32.dll', fileVersion: 6.3.9600.18344
+C:\WINDOWS\SYSTEM32\SHELL32.dll:SHELL32.dll (75A20000), size: 19640320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHELL32.dll', fileVersion: 6.3.9600.18460
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (60F20000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (747A0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (74D10000), size: 618496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OLEAUT32.dll', fileVersion: 6.3.9600.18434
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (6FF80000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\IMM32.dll:IMM32.dll (75100000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IMM32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (71C40000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.18402
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (74580000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.18264
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (744C0000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.18378
+C:\WINDOWS\SYSTEM32\msvcrt.dll:msvcrt.dll (75550000), size: 798720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msvcrt.dll', fileVersion: 7.0.9600.17415
+C:\WINDOWS\SYSTEM32\NSI.dll:NSI.dll (75A10000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NSI.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75130000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\RPCRT4.dll', fileVersion: 6.3.9600.18292
+C:\WINDOWS\SYSTEM32\combase.dll:combase.dll (75270000), size: 1560576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\combase.dll', fileVersion: 6.3.9600.18202
+C:\WINDOWS\SYSTEM32\sechost.dll:sechost.dll (76CE0000), size: 266240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.17734
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (6FA60000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (6D860000), size: 966656 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (74770000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\MSCTF.dll:MSCTF.dll (76F60000), size: 1122304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSCTF.dll', fileVersion: 6.3.9600.18081
+C:\WINDOWS\SYSTEM32\WINNSI.DLL:WINNSI.DLL (74460000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (753F0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.18454
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (70110000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (76D30000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (71CC0000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (74940000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (748E0000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.18344
+C:\WINDOWS\SYSTEM32\shcore.dll:shcore.dll (746B0000), size: 569344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17666
+C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Mono\mono.dll'
+C:\WINDOWS\SYSTEM32\PSAPI.DLL:PSAPI.DLL (754A0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\PSAPI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (71DC0000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.18340
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (745C0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (70D10000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 6.3.9600.17415
+C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll:tiptsf.dll (643D0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (6F710000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwmapi.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\d3d9.dll:d3d9.dll (6FB00000), size: 1912832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d9.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\nvumdshim.dll:nvumdshim.dll (6B790000), size: 1273856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\nvumdshim.dll', fileVersion: 9.18.13.3165
+C:\WINDOWS\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (74F40000), size: 1773568 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SETUPAPI.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\nvinit.dll:nvinit.dll (6B760000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\nvinit.dll', fileVersion: 9.18.13.3165
+C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll:detoured.dll (0F000000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll'
+C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll:nvd3d9wrap.dll (6B700000), size: 339968 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll', fileVersion: 9.18.13.3165
+C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll:nvdxgiwrap.dll (6B6C0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll', fileVersion: 9.18.13.3165
+C:\WINDOWS\system32\igdumdim32.dll:igdumdim32.dll (6ACC0000), size: 10457088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\igdumdim32.dll', fileVersion: 10.18.10.4276
+C:\WINDOWS\SYSTEM32\igdusc32.dll:igdusc32.dll (6A940000), size: 3624960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\igdusc32.dll', fileVersion: 10.18.10.4276
+C:\WINDOWS\system32\nvd3dum.dll:nvd3dum.dll (62720000), size: 15179776 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\nvd3dum.dll', fileVersion: 9.18.13.3165
+C:\WINDOWS\SYSTEM32\WINTRUST.dll:WINTRUST.dll (74CD0000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINTRUST.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\CRYPT32.dll:CRYPT32.dll (74DB0000), size: 1605632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPT32.dll', fileVersion: 6.3.9600.18370
+C:\WINDOWS\SYSTEM32\MSASN1.dll:MSASN1.dll (77080000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSASN1.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\powrprof.dll:powrprof.dll (6FAC0000), size: 262144 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\powrprof.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (6BB50000), size: 339968 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (64190000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (6BAE0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (6FF70000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (698A0000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (64180000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (64170000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\dsound.dll:dsound.dll (6CB40000), size: 528384 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\clbcatq.dll:clbcatq.dll (75410000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.17415
+C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.18006_none_a9ec6aab013aafee\comctl32.dll:comctl32.dll (70E10000), size: 2121728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9600.18006_none_a9ec6aab013aafee\comctl32.dll', fileVersion: 6.10.9600.18006
+C:\WINDOWS\SYSTEM32\oleacc.dll:oleacc.dll (61350000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\oleacc.dll', fileVersion: 7.2.9600.17415
+C:\WINDOWS\SYSTEM32\xinput9_1_0.dll:xinput9_1_0.dll (68CC0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput9_1_0.dll', fileVersion: 6.3.9600.17415
+C:\Program Files (x86)\Internet Download Manager\idmmkb.dll:idmmkb.dll (09D60000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Internet Download Manager\idmmkb.dll', fileVersion: 6.11.2.1
+C:\Users\Thiago\AppData\Local\Radvision\Conference Client\8.3.104.68\WPVideoHook.dll:WPVideoHook.dll (61000000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Thiago\AppData\Local\Radvision\Conference Client\8.3.104.68\WPVideoHook.dll', fileVersion: 8.3.104.68
+C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Plugins\OculusPlugin.dll:OculusPlugin.dll (64300000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Thiago\Desktop\PROJETO_NOVO METERORO\METEORO_VR_Data\Plugins\OculusPlugin.dll'
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (6CDB0000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (70710000), size: 1314816 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.17787
+C:\WINDOWS\system32\BfLLR.dll:BfLLR.dll (037D0000), size: 479232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\BfLLR.dll', fileVersion: 8.0.3.11
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (71DA0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (71D80000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 6.3.9600.17415
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x643122E6) (OculusPlugin): (filename not available): ovr_WaitTillTime + 0xc706
+(0x643139F7) (OculusPlugin): (filename not available): ovr_WaitTillTime + 0xde17
+(0x6430569E) (OculusPlugin): (filename not available): ovrHmd_GetTrackingState + 0x3e
+(0x04B1D929) (Mono JIT code): (filename not available):  (wrapper managed-to-native) Ovr.Hmd:ovrHmd_GetTrackingState (intptr,double) + 0x39 (04B1D8F0 04B1D964) [04194E70 - Unity Root Domain] + 0x0
+(0x04B1D8BD) (Mono JIT code): (filename not available):  Ovr.Hmd:GetTrackingState (double) + 0x25 (04B1D898 04B1D8DF) [04194E70 - Unity Root Domain] + 0x0
+(0x04B1D86E) (Mono JIT code): (filename not available):  OVRDisplay:get_isPresent () + 0x3e (04B1D830 04B1D88B) [04194E70 - Unity Root Domain] + 0x0
+(0x04B1D5CE) (Mono JIT code): (filename not available):  OVRManager:Update () + 0xce (04B1D500 04B1D6DE) [04194E70 - Unity Root Domain] + 0x0
+(0x04B0E571) (Mono JIT code): (filename not available):  (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr) + 0x41 (04B0E530 04B0E5C5) [04194E70 - Unity Root Domain] + 0x0
+(0x100F0703) (mono): (filename not available): mono_set_defaults + 0x22cb
+(0x1005D8A3) (mono): (filename not available): mono_runtime_invoke + 0x51
+(0x00BC4F2E) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0x287be
+(0x00C6558A) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0xc8e1a
+(0x00C65375) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0xc8c05
+(0x00BB7A51) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0x1b2e1
+(0x00BB7A84) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0x1b314
+(0x00C2FF40) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0x937d0
+(0x00CAC50B) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0x10fd9b
+(0x00CAE005) (METEORO_VR): (filename not available): Behaviour::Transfer<StreamedBinaryWrite<0> > + 0x111895
+(0x00F20C58) (METEORO_VR): (filename not available): AnimationEvent::Transfer<StreamedBinaryRead<1> > + 0x123308
+(0x00F55B30) (METEORO_VR): (filename not available): AnimationEvent::Transfer<StreamedBinaryRead<1> > + 0x1581e0
+(0x758E7C04) (KERNEL32): (filename not available): BaseThreadInitThunk + 0x24
+(0x771BAB8F) (ntdll): (filename not available): RtlInitializeExceptionChain + 0x8f
+(0x771BAB5A) (ntdll): (filename not available): RtlInitializeExceptionChain + 0x5a
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

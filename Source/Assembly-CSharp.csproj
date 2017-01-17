@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{653826F4-9873-351C-B358-E6A06918A4B5}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_7;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\48 Particle Effect Pack\Script\csParticleEffectPackLightControl.cs" />
+     <Compile Include="Assets\48 Particle Effect Pack\ShurikenEffectEditor\csShurikenEffectChanger.cs" />
+     <Compile Include="Assets\48 Particle Effect Pack\ShurikenEffectEditor\csShurikenEffectEditor.cs" />
+     <Compile Include="Assets\AsteroidsManager.cs" />
+     <Compile Include="Assets\DepthOfField\Scripts\DepthOfField.cs" />
+     <Compile Include="Assets\MenuComand.cs" />
+     <Compile Include="Assets\OVR\Scripts\OVRCameraRig.cs" />
+     <Compile Include="Assets\OVR\Scripts\OVRCommon.cs" />
+     <Compile Include="Assets\OVR\Scripts\OVRDisplay.cs" />
+     <Compile Include="Assets\OVR\Scripts\OVRManager.cs" />
+     <Compile Include="Assets\OVR\Scripts\OVRPluginEvent.cs" />
+     <Compile Include="Assets\OVR\Scripts\OVRTracker.cs" />
+     <Compile Include="Assets\OVR\Scripts\OvrCapi.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRCrosshair.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRGUI.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRGamepadController.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRGridCube.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRMainMenu.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRPlayerController.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
+     <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
+     <Compile Include="Assets\SCRIPT\AutoDestroy.cs" />
+     <Compile Include="Assets\SCRIPT\CameraShake.cs" />
+     <Compile Include="Assets\SCRIPT\ChangeSkybox.cs" />
+     <Compile Include="Assets\SCRIPT\Nave.cs" />
+     <Compile Include="Assets\Scene Assets\3dText\CurvedText.cs" />
+     <Compile Include="Assets\Scene Assets\3dText\moveLeft.cs" />
+     <Compile Include="Assets\Scene Assets\ElectronicRoadSign\_docs\DemoSceneGUI.cs" />
+     <Compile Include="Assets\Scene Assets\ElectronicRoadSign\_sources\Scripts\ElectronicArrowSignScript.cs" />
+     <Compile Include="Assets\Scene Assets\ElectronicRoadSign\_sources\Scripts\ElectronicRoadSignScript.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\AmbientController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\FlyThroughController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\MoveCamera.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\Util\SetFPS.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\Util\ViewFPS.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\005339_08932_25_14\Scripts\ZRNGUIController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\Cars\Scripts\AICarMove.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\CameraAction.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\GUIController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\GUIControllerFlying.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\QueryAnimationController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\QueryEmotionalController.cs" />
+     <Compile Include="Assets\Scene Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\QuerySoundController.cs" />
+     <Compile Include="Assets\Scene Assets\eyeChartsImages\setRandomTexture.cs" />
+     <Compile Include="Assets\Scripts\Blocks\CircleDraw.cs" />
+     <Compile Include="Assets\Scripts\Blocks\DetectInRadios.cs" />
+     <Compile Include="Assets\Scripts\Blocks\DrawRadar.cs" />
+     <Compile Include="Assets\Scripts\Blocks\createFocusObject.cs" />
+     <Compile Include="Assets\Scripts\Blocks\createSet.cs" />
+     <Compile Include="Assets\Scripts\Blocks\multiplesRays.cs" />
+     <Compile Include="Assets\Scripts\Blocks\setMaterial.cs" />
+     <Compile Include="Assets\Scripts\DebugConsole.cs" />
+     <Compile Include="Assets\Scripts\DoFAutoFocus.cs" />
+     <Compile Include="Assets\Scripts\Heuristicas.cs" />
+     <Compile Include="Assets\Scripts\LayeredRayCaster.cs" />
+     <Compile Include="Assets\Scripts\RandomizeColors.cs" />
+     <Compile Include="Assets\Scripts\Raycaster.cs" />
+     <Compile Include="Assets\Scripts\convertResults.cs" />
+     <Compile Include="Assets\Scripts\imp.cs" />
+     <Compile Include="Assets\lerpskybox.cs" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\DepthOfField\Shaders\DepthCG.cginc" />
+     <None Include="Assets\DepthOfField\Example\Shaders\DiffuseSurfaceExample.shader" />
+     <None Include="Assets\DepthOfField\Example\Shaders\TreeSoftOcclusionLeaves.shader" />
+     <None Include="Assets\DepthOfField\Example\Shaders\DiffuseSurfaceExcludedExample.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Scene Assets\3dText\3DTEXTCULLBACK.shader" />
+     <None Include="Assets\DepthOfField\Example\Shaders\TransparencyExample.shader" />
+     <None Include="Assets\DepthOfField\Example\Shaders\NormalSurfaceExample.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
+     <None Include="Assets\DepthOfField\Example\Shaders\SH_Vertex.cginc" />
+     <None Include="Assets\DepthOfField\Example\Shaders\VertexFragmentExample.shader" />
+     <None Include="Assets\DepthOfField\Shaders\DepthOfField.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
+     <None Include="Assets\Scene Assets\Materials\Shaders\maskShader.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
+     <None Include="Assets\DepthOfField\Example\Shaders\SpecularSurfaceExample.shader" />
+     <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.7/Standalone/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{FCE7D67C-6FCE-91B6-3DB9-217BB9E12E49}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{998E8B91-8ACC-667E-0815-2C98225DF6B7}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
